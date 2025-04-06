@@ -3374,7 +3374,6 @@ PRODUCT_PACKAGES += \
     motorola.hardware.camera.desktop@2.0 \
     sensors.moto \
     sensors.ssc \
-    vendor.egistec.hardware.fingerprint@4.0 \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     EuiccPartnerApp \
     EuiccGoogle \
