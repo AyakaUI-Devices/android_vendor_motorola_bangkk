@@ -3495,7 +3495,6 @@ PRODUCT_PACKAGES += \
     libofflinelog \
     libopencv \
     libopestriping \
-    libpowercore \
     libremosaic_wrapper \
     libswregistrationalgo \
     libtfestriping \
